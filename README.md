@@ -1,2 +1,2 @@
 Current Project
-![cib](https://lauramerris.github.io/cib/)
+[cib](https://lauramerris.github.io/cib/)
