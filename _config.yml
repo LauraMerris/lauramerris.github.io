@@ -1,4 +1,9 @@
 theme: minima
 title: Laura Merris
-description: Current projects and project updates
+author: Laura Merris
+description: Overview of my current projects and project updates - currently working in React Native
 show_excerpts: true
+
+# social links
+twitter_username: lauramerris
+github_username: lauramerris
