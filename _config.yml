@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-cayman
 title: Projects and Products
 author: Laura Merris
 description: Overview of my current development projects. These are all currently side projects or experiments intended for my use only. The micro-blog is for accountability, and to keep track of progress. Currently working in React Native.
