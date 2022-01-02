@@ -5,11 +5,11 @@ title: ''
 ---
 # Hi, I'm Laura Merris
 
-:seedling: I make things in javascript  
-:wrench: Currently building a mobile app using React Native and Firebase  
-:revolving_hearts: I'm passionate about independent learning and how it can empower people  
-:page_facing_up: Check out [my Github](https://github.com/LauraMerris)  
-:bird: Let's chat [on Twitter](https://twitter.com/lauramerris)  
+- I make things in javascript  
+- Currently building a mobile app using React Native and Firebase  
+- I'm passionate about independent learning and how it can empower people  
+- Check out [my Github](https://github.com/LauraMerris)  
+- Let's chat [on Twitter](https://twitter.com/lauramerris)  
 
 ## Current projects: 
 
