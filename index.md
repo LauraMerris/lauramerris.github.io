@@ -4,9 +4,7 @@ list_title: Posts
 title: ''
 ---
 
-# Current projects:
-
-![cib](https://user-images.githubusercontent.com/7448403/147872403-902243ef-9980-421b-8d71-54a4946ea9d9.jpg)  
+# Current projects: 
 
 A mobile app to help video game collectors keep track of their physical games.
   
@@ -14,6 +12,8 @@ A mobile app to help video game collectors keep track of their physical games.
 
 :point_right: [More info on the app homepage](https://lauramerris.github.io/cib/)  
 :point_right: [View the code](https://github.com/LauraMerris/cib)
+
+![cib-mock-mini](https://user-images.githubusercontent.com/7448403/147874331-8282c839-0c74-4aab-b144-e2466fd0ab14.jpg)
 
 
 ---
