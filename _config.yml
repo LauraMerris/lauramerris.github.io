@@ -4,8 +4,7 @@ author: Laura Merris
 description: Hi, I'm Laura and this is an overview of my current development projects. I'm keeping a daily (ish) accountability blog on my progress. I'm currently working in React Native.
 show_excerpts: true
 theme: minima
-plugins:
-  -jemoji
+
 
 # social links
 twitter_username: lauramerris
