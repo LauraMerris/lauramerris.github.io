@@ -1,3 +1,8 @@
+---
+title: "Put yourself out there"
+date: 2022-01-02
+---
+
 One of my goals for this year is to get better at being 'out there' with a social media presence, despite my huge anxiety of putting anything personal about myself online. The first task on the list for this year was an overhaul of my Github profile and Github pages. 
 
 I've now got a description of myself on my Github profile, information about me, links to my social media and details about Complete in Box. 
