@@ -3,7 +3,7 @@ title: Laura Merris
 author: Laura Merris
 description: Hi, I'm Laura and this is an overview of my current development projects. I'm keeping a daily (ish) accountability blog on my progress. I'm currently working in React Native.
 show_excerpts: true
-theme: minima
+remote_theme: ngzhio/jekyll-theme-hamilton
 
 
 # social links
