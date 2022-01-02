@@ -8,7 +8,7 @@ title: ''
 - I make things in javascript  
 - Currently building a mobile app using React Native and Firebase  
 - I'm passionate about independent learning and how it can empower people  
-- Check out [my Github](https://github.com/LauraMerris)  
+- Check out my code on [Github](https://github.com/LauraMerris)  
 - Let's chat [on Twitter](https://twitter.com/lauramerris)  
 
 ## Current projects: 
