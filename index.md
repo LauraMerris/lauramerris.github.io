@@ -15,3 +15,6 @@ A mobile app to help video game collectors keep track of their physical games.
 :point_right: [More info on the app homepage](https://lauramerris.github.io/cib/)  
 :point_right: [View the code](https://github.com/LauraMerris/cib)
 
+
+---
+
