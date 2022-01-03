@@ -1,3 +1,8 @@
+---
+title: "Put yourself out there"
+date: 2022-01-03
+---
+
 To be brutally honest, I've spent most of the day engaging on Twitter.
 
 Not that I regret it, I'm so new to interacting on social media it's still a novelty (wow, I finally caught up with the rest of the world). However, it does mean that today I've only checked over my project (it still runs - awesome), and tidied up the error handling. 
