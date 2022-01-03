@@ -1,5 +1,5 @@
 ---
-title: "Getting reqcquainted with my code"
+title: "Getting reacquainted with my code"
 date: 2022-01-03
 ---
 
