@@ -1,5 +1,5 @@
 ---
-title: "Put yourself out there"
+title: "Getting reqcquainted with my code"
 date: 2022-01-03
 ---
 
