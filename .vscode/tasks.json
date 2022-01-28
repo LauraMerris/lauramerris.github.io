@@ -1,0 +1,27 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "createPost",
+            "type": "shell",
+            //"command": "$Date = (Get-Date).tostring('yyyy-MM-dd'); $Filename = $Date + '-${input:title}'; New-Item -ItemType File ($Filename + '.md'); code ($Filename + '.md')",
+            "command":"${workspaceFolder}/test2.ps1",
+            "args": [
+                "${input:title}"
+            ],
+            "options": {
+                "cwd":"${workspaceFolder}"
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "type":"promptString",
+            "id":"title",
+            "description":"blog post title",
+            "default":"title"
+        }
+    ]
+}
