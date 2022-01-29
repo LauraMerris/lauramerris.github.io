@@ -6,8 +6,8 @@ permalink: /blog/
 
 ## Project Progress (and Process)
 {% for post in site.posts %}
-{{post.title}}
-{{post.date}}
+<h2>{{post.title}}</h2>
+{{post.date | date_to_long_string}}
 {{post.content}}
 {% endfor %}
 
