@@ -6,6 +6,7 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 location: UK
 avatar: https://avatars.githubusercontent.com/u/7448403?v=4
 skin: daylight
+markdown: GFM
  
 # social links
 twitter_username: lauramerris
