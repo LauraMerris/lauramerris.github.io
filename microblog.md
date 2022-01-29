@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "microblog"
+permalink: /blog/
 ---
 
 ## Project Progress (and Process)
