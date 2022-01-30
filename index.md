@@ -22,4 +22,4 @@ A mobile app to help video game collectors keep track of their physical games.
 
 ---
 
-## Building in public blog:
+## Latest progress:
