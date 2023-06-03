@@ -6,12 +6,15 @@ title: ''
 # Hi, I'm Laura Merris
 
 - I make things in javascript  
-- Currently building a mobile app using React Native and Firebase  
+- Currently building micro-projects in React  
 - I'm passionate about independent learning and how it can empower people  
 - Check out my code on [Github](https://github.com/LauraMerris)  
 - Let's chat [on Twitter](https://twitter.com/lauramerris)  
 
 ## Current projects: 
+
+A component consuming the Polygon.io API and displaying financial data using Nivo
+👉 [View the code](https://github.com/LauraMerris/dji)
 
 A mobile app to help video game collectors keep track of their physical games.  
 👉 [View the code](https://github.com/LauraMerris/cib)
