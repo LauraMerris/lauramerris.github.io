@@ -15,7 +15,8 @@ title: ''
 
 ### FinDash
 A React component to display the latest stock values of the Dow Jones Index.
-Used:
+
+- Created in React
 - [Polygon.io](https://polygon.io) Stock market data API (free version)
 - [Nivo](https://nivo.rocks) Free dataviz components for React
 - [Luxon](https://github.com/moment/luxon/) A modern wrapper for javascript dates and times 
@@ -24,8 +25,8 @@ Used:
 
 ### Complete in Box
 A mobile app to help video game collectors keep track of their physical games.
-Used:
-- React Native
+
+- Created in React Native
 - [IGDB](https://m.igdb.com/api) Game information API (free version)
 <br>👉 [View the code](https://github.com/LauraMerris/cib)
 
