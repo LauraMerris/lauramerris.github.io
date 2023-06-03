@@ -5,7 +5,7 @@ title: ''
 ---
 # Hi, I'm Laura Merris
 
-- I make things in javascript  
+- I make things with javascript  
 - Currently building micro-projects in React  
 - I'm passionate about independent learning and how it can empower people  
 - Check out my code on [Github](https://github.com/LauraMerris)  
