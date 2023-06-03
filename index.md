@@ -13,7 +13,11 @@ title: ''
 
 ## Current projects: 
 
-A component consuming the Polygon.io API and displaying financial data using Nivo
+A React component to display the latest stock values of the Dow Jones Index.
+Used:
+- [Polygon.io](https://polygon.io) Stock market data API (free version)
+- [Nivo](https://nivo.rocks) Free dataviz components for React
+- [Luxon](https://github.com/moment/luxon/) A modern wrapper for javascript dates and times
 👉 [View the code](https://github.com/LauraMerris/dji)
 
 A mobile app to help video game collectors keep track of their physical games.  
