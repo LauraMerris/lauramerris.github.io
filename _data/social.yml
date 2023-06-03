@@ -4,3 +4,6 @@
 - title: GitHub
   url: https://github.com/lauramerris
   icon: fab fa-github
+- title: CodePen
+  url: https://codepen.io/LauraMerris/
+  icon: fab fa-codepen
