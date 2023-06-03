@@ -21,6 +21,7 @@ A React component to display the latest stock values of the Dow Jones Index.
 - [Nivo](https://nivo.rocks) Free dataviz components for React
 - [Luxon](https://github.com/moment/luxon/) A modern wrapper for javascript dates and times 
 <!-- end list -->
+👉 [FinDash working demo](https://lauramerris.github.io/findash)<br>
 👉 [View code for FinDash](https://github.com/LauraMerris/findash)
 
 ### Complete in Box
